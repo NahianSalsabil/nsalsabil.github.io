@@ -1,24 +1,23 @@
 # The following is the order of the links in the header of the website.
 #
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
+# Each link jumps to a section on the home page (_pages/about.md). The part
+# after "#" must match the {#id} written next to that section's heading.
 
 main:
   - title: "Work Experience"
-    url: /work-experience/
+    url: /#experience
 
   - title: "Publications"
-    url: /publications/
+    url: /#publications
 
   - title: "Honors and Awards"
-    url: /honors-and-awards/
+    url: /#awards
 
   - title: "Services"
-    url: /services/
+    url: /#services
 
   - title: "Skills"
-    url: /skills/
+    url: /#skills
 
   - title: "CV"
-    url: /cv/
+    url: /#cv

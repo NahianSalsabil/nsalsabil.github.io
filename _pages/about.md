@@ -15,7 +15,7 @@ My research is in **software engineering for autonomous driving**. I focus on te
 
 Before UVA, I earned my B.Sc. in Computer Science and Engineering from **Bangladesh University of Engineering and Technology (BUET)**. My undergraduate thesis proposed new pooling methods for CNN-based semantic segmentation of driving videos. I'm also a Lecturer (currently on study leave) in the [Department of CSE at BRAC University](https://www.bracu.ac.bd/about), where I taught programming, data structures and algorithms.
 
-News
+News {#news}
 ======
 - **2026:** Won both the **Best Poster Award (Faculty Choice)** and the **Best Poster Award (Audience Choice)** at the UVA Research Symposium.
 - **2026:** *TRACE: Topology Aware Reconstruction of Accidents in CARLA for AV Evaluation* was published at **FSE 2026**.
@@ -23,27 +23,27 @@ News
 - **Jun 2023:** Joined BRAC University as a Lecturer in CSE.
 - **May 2023:** Graduated with a B.Sc. in CSE from BUET.
 
-Work Experience
+Work Experience {#experience}
 ======
 {% include sections/work-experience.md %}
 
-Publications
+Publications {#publications}
 ======
 {% include sections/publications.html %}
 
-Honors and Awards
+Honors and Awards {#awards}
 ======
 {% include sections/honors-and-awards.md %}
 
-Services
+Services {#services}
 ======
 {% include sections/services.md %}
 
-Skills
+Skills {#skills}
 ======
 {% include sections/skills.md %}
 
-CV
+CV {#cv}
 ======
 My full CV is on the [CV page]({{ base_path }}/cv/), or you can [download it as a PDF]({{ base_path }}/files/Nahian_Salsabil_CV.pdf).
 
