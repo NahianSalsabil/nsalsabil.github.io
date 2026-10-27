@@ -1,8 +1,13 @@
-<ul>
+<ul class="pub-list">
 {% for post in site.publications reversed %}
-  <li>{{ post.citation | replace: "Nahian Salsabil", "<strong>Nahian Salsabil</strong>" }}
-    {% if post.paperurl %} [<a href="{{ post.paperurl }}">Paper</a>]{% endif %}
-    {% if post.codeurl %} [<a href="{{ post.codeurl }}">Code</a>]{% endif %}
+  <li style="margin-bottom: 1em;">
+    <strong>{{ post.title }}</strong><br>
+    {{ post.authors | replace: "Nahian Salsabil", "<strong>Nahian Salsabil</strong>" }}<br>
+    <i>{{ post.venue }}</i>
+    {% if post.paperurl or post.codeurl %}<br>
+      {% if post.paperurl %}[<a href="{{ post.paperurl }}">Paper</a>]{% endif %}
+      {% if post.codeurl %}[<a href="{{ post.codeurl }}">Code</a>]{% endif %}
+    {% endif %}
   </li>
 {% endfor %}
 </ul>
