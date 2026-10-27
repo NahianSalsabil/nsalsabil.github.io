@@ -1,0 +1,5 @@
+- Best Poster Award (Faculty Choice), UVA Research Symposium, 2026
+- Best Poster Award (Audience Choice), UVA Research Symposium, 2026
+- Top 10 on both the 1st and 2nd leaderboards, DhakaAI Object Detection Challenge (5-member team)
+- Regional Champion, Bangladesh Mathematical Olympiad, 2015
+- Winner, Bangladesh Physics Olympiad (National Round), 2014

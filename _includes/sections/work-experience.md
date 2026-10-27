@@ -1,0 +1,4 @@
+- **Graduate Research Assistant**, LESS Lab, University of Virginia, *Aug 2025 – Present*
+  - Advisor: Prof. Sebastian Elbaum
+- **Lecturer (on leave)**, Department of Computer Science and Engineering, BRAC University, Dhaka, *Jun 2023 – Present*
+  - Taught CSE110 (Programming Language I), CSE220 (Data Structures) and CSE221 (Algorithms Sessional)

@@ -1,0 +1,1 @@
+- Batch Representative, BWCSE (Bangladesh Women in Computer Science and Engineering). Helped organize seminars, workshops and competitions featuring women leaders in computing.

@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 Hi! I'm **Nahian Salsabil**, a PhD student in Computer Science at the [University of Virginia](https://engineering.virginia.edu/department/computer-science), where I work as a Graduate Research Assistant in the **LESS Lab** with Prof. Sebastian Elbaum.
 
 My research is in **software engineering for autonomous driving**. I focus on testing and verifying autonomous vehicle (AV) systems in rare, safety-critical scenarios, and more broadly on using **AI for autonomous vehicles**. My recent work, [TRACE](https://dl.acm.org/doi/abs/10.1145/3803437.3806426) (FSE 2026), reconstructs real-world accidents in the CARLA simulator with topology-aware road layouts to evaluate AVs.
@@ -23,32 +25,27 @@ News
 
 Work Experience
 ======
-- **Graduate Research Assistant**, LESS Lab, University of Virginia, *Aug 2025 – Present*
-- **Lecturer (on leave)**, Department of Computer Science and Engineering, BRAC University, Dhaka, *Jun 2023 – Present*
-  - Taught CSE110 (Programming Language I), CSE220 (Data Structures) and CSE221 (Algorithms Sessional)
+{% include sections/work-experience.md %}
 
 Publications
 ======
-<ul>
-{% for post in site.publications reversed %}
-  <li>{{ post.citation | replace: "Nahian Salsabil", "<strong>Nahian Salsabil</strong>" }}
-    {% if post.paperurl %} [<a href="{{ post.paperurl }}">Paper</a>]{% endif %}
-    {% if post.codeurl %} [<a href="{{ post.codeurl }}">Code</a>]{% endif %}
-  </li>
-{% endfor %}
-</ul>
+{% include sections/publications.html %}
 
 Honors and Awards
 ======
-- Best Poster Award (Faculty Choice), UVA Research Symposium, 2026
-- Best Poster Award (Audience Choice), UVA Research Symposium, 2026
-- Top 10 on both the 1st and 2nd leaderboards, DhakaAI Object Detection Challenge (5-member team)
-- Regional Champion, Bangladesh Mathematical Olympiad, 2015
-- Winner, Bangladesh Physics Olympiad (National Round), 2014
+{% include sections/honors-and-awards.md %}
 
 Services
 ======
-- Batch Representative, BWCSE (Bangladesh Women in Computer Science and Engineering). Helped organize seminars, workshops and competitions featuring women leaders in computing.
+{% include sections/services.md %}
+
+Skills
+======
+{% include sections/skills.md %}
+
+CV
+======
+My full CV is on the [CV page]({{ base_path }}/cv/), or you can [download it as a PDF]({{ base_path }}/files/Nahian_Salsabil_CV.pdf).
 
 Outside Research
 ======

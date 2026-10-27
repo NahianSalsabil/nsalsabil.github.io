@@ -5,14 +5,20 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Work Experience"
+    url: /work-experience/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Projects"
-    url: /portfolio/
+  - title: "Honors and Awards"
+    url: /honors-and-awards/
 
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Services"
+    url: /services/
+
+  - title: "Skills"
+    url: /skills/
 
   - title: "CV"
     url: /cv/

@@ -1,0 +1,8 @@
+<ul>
+{% for post in site.publications reversed %}
+  <li>{{ post.citation | replace: "Nahian Salsabil", "<strong>Nahian Salsabil</strong>" }}
+    {% if post.paperurl %} [<a href="{{ post.paperurl }}">Paper</a>]{% endif %}
+    {% if post.codeurl %} [<a href="{{ post.codeurl }}">Code</a>]{% endif %}
+  </li>
+{% endfor %}
+</ul>

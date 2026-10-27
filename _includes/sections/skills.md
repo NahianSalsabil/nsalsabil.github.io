@@ -1,0 +1,4 @@
+- **Languages:** C/C++, Java, Python, JavaScript, Bash, Bison/Flex
+- **Frameworks & Tools:** PyTorch, Django REST, ReactJS, Docker, CARLA, NS3, xv6, Wireshark, LaTeX, Git
+- **Databases:** MySQL, PostgreSQL, Oracle
+- **Libraries:** scikit-learn, Pandas, Matplotlib, Seaborn
