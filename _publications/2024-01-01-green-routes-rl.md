@@ -6,6 +6,7 @@ permalink: /publication/2024-01-01-green-routes-rl
 excerpt: 'Uses reinforcement learning to find routes with low air and noise pollution and more urban green space, under a travel-distance constraint. [Code](https://github.com/NahianSalsabil/A-Reinforcement-Learning-Based-Approach-for-Planning-Green-Routes-in-Road-Networks)'
 date: 2024-01-01
 venue: 'Under submission'
+codeurl: 'https://github.com/NahianSalsabil/A-Reinforcement-Learning-Based-Approach-for-Planning-Green-Routes-in-Road-Networks'
 citation: 'Nahian Salsabil, Tanzima Hashem. &quot;Reinforcement Learning-Based Approach for Planning Green Routes in Road Networks.&quot; Under submission.'
 ---
 
