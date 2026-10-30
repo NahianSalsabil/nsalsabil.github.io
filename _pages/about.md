@@ -13,7 +13,7 @@ Hi! I'm **Nahian Salsabil**, a PhD student in Computer Science at the [Universit
 
 My research is in **software engineering for autonomous driving**. I mainly focus on building trustworthy testing framework for autonomous vehicle (AV) systems in rare, safety-critical scenarios. 
 
-Before UVA, I earned my B.Sc. in Computer Science and Engineering from **Bangladesh University of Engineering and Technology (BUET)**. I'm also a Lecturer (currently on study leave) in the [Department of CSE at BRAC University](https://www.bracu.ac.bd/about), where I taught programming, data structures and algorithms as well as operating systems.
+Before UVA, I earned my B.Sc. in Computer Science and Engineering from Bangladesh University of Engineering and Technology ([BUET](https://cse.buet.ac.bd/)). I'm also a Lecturer (currently on study leave) in the Department of CSE at [BRAC University](https://www.bracu.ac.bd/about), where I taught programming, data structures and algorithms as well as operating systems.
 
 News {#news}
 ======
