@@ -43,10 +43,6 @@ Skills {#skills}
 ======
 {% include sections/skills.md %}
 
-CV {#cv}
-======
-My full CV is on the [CV page]({{ base_path }}/cv/), or you can [download it as a PDF]({{ base_path }}/files/Nahian_Salsabil_CV.pdf).
-
 Outside Research
 ======
-I'm interested in human psychology. In my free time I enjoy cooking, traveling, and binge-watching thrillers, dramas and sitcoms.
+In my free time I enjoy cooking, traveling, and binge-watching thrillers, dramas and sitcoms.
